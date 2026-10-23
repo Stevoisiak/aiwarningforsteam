@@ -37,7 +37,7 @@ This method is not fully supported, but will let you install directly in the Ste
    https://chromewebstore.google.com/detail/ai-warning-for-steam/clegcobheppnnigaaeelfkeomjcngmnh
    ```
 4. Click "Add to Chrome".
-5. In the download window, save the extension to any folder (you can delete it afterwards).
+5. In the download window, save the extension to any folder. (The install file will delete itself once installed)
 6. Close the Chromium window that opens up.
 
 ## Platform and language support
